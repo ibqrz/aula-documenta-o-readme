@@ -2,7 +2,7 @@
     <img src="./img/logo.png" alt="logo" width="600px">
 </p>
 
-# Docmentação README 
+# Documentação README 
 
 <p id="descrição" align="justify">
 Este repositório apresenta um README padronizado.
